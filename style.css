@@ -1,0 +1,17 @@
+p{
+    color: rgba(7, 72, 92, 0.938);
+    text-align: center;
+}
+body {
+    background-image: url(https://cutewallpaper.org/21/fantasy-nature-wallpaper-4k/3840x2160-Fantasy-Forest-4K-Wallpaper-HD-Fantasy-4K-.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 , h2, h3 {
+    color: blue;
+}
+
+button {
+    align-content: center;
+    color: rgb(90, 11, 238);
+}
